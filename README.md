@@ -2,6 +2,7 @@
 
 <h2> Software Development Projects:</h2>
 <b>C++</b>
+
 - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
     
 - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
