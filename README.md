@@ -17,7 +17,7 @@
 https://www.linkedin.com/in/zayd-siwan-657927341/
 <!--
 
-<h2> Certifications </h2>
+<h2> Certifications</h2>
 
 **ZaydSiwan/ZaydSiwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
