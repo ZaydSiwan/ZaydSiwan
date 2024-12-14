@@ -11,6 +11,7 @@
 
 <b>Python</b>
   - [Class Registration Application](https://github.com/ZaydSiwan/ZaydSiwanClassRegistrationPython-CSC121)
+  - [Grade Average Calculator](https://github.com/ZaydSiwan/ZaydSiwanPythonGradeCalculator)
 
 <h2> LinkedIn</h2>
 <img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
