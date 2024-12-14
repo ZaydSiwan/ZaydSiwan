@@ -14,7 +14,8 @@
 https://www.linkedin.com/in/zayd-siwan-657927341/
 
 <h2> Certifications</h2>
-[IT Specialist - Python Centriport](https://www.credly.com/badges/b62463b0-877a-4b71-9a9a-cf407c6d1717/public_url)
+<b>Python</b>
+- [IT Specialist - Python Centriport](https://www.credly.com/badges/b62463b0-877a-4b71-9a9a-cf407c6d1717/public_url)
 
 
 <!--
