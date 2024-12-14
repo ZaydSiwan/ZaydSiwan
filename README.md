@@ -10,7 +10,7 @@
 - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <b>Python</b>
-  - [Class Registration Application]([https://github.com/ZaydSiwan/ZaydSiwanClassRegistrationPython-CSC121](https://github.com/ZaydSiwan/ZaydSiwanClassRegistrationPython-CSC121))
+  - [Class Registration Application]([(https://github.com/ZaydSiwan/ZaydSiwanClassRegistrationPython-CSC121)])
 
 <h2> LinkedIn</h2>
 <img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
