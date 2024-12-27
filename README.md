@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zayd! <br/><a href="https://github.com/ZaydSiwan">Programmer</a>, <a>Entry Level Software Developer</a>, 
+<h1>Hi, I'm Zayd! <br/><a>Programmer</a>, <a>Entry Level Software Developer</a>, 
 
 <h2> Software Development Projects:</h2>
 <b>C++</b>
