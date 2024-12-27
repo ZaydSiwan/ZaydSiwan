@@ -1,8 +1,8 @@
-<h1>Hi, I'm Zayd! <br/><a href="https://github.com/ZaydSiwan">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Entry Level Software Developer</a>, 
+]<h1>Hi, I'm Zayd! <br/><a href="https://github.com/ZaydSiwan">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Entry Level Software Developer</a>, 
 
 <h2> Software Development Projects:</h2>
 <b>C++</b>
-
+- [Student Skills Program](https://github.com/ZaydSiwan/StudentSkillsProgram)
 
 
 <b>Python</b>
